@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AppDelegate splitViewController:separateSecondaryViewControllerFromPrimaryViewController:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[(UINavigationController *)primaryViewController viewControllers]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FCFriendsTVC isUserIdOnline:]:FCFriendsTVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FCFriendsTVC messageReceived:]:FCFriendsTVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "__27-[FCFriendsTVC viewDidLoad]_block_invoke_2:FCFriendsTVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.offlineUsers">
+            </PersistentString>
+            <PersistentString
+               value = "[name1 localizedCaseInsensitiveCompare:name2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FCFriendsTVC tableView:cellForRowAtIndexPath:]:FCFriendsTVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "conversation.facebookName">
+            </PersistentString>
+            <PersistentString
+               value = "conversation.facebookId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate splitViewController:collapseSecondaryViewController:ontoPrimaryViewController:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[(UINavigationController *)primaryViewController viewControllers]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__55-[FCChatDataStoreManager onlineFriends:withCompletion:]_block_invoke:FCChatDataStoreManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "__24-[FCLoginVC runSequncer]_block_invoke_364:FCLoginVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "__24-[FCLoginVC runSequncer]_block_invoke_239:FCLoginVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FCFriendsTVC tableView:didSelectRowAtIndexPath:]:FCFriendsTVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController.v">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__55-[FCChatDataStoreManager onlineFriends:withCompletion:]_block_invoke_2:FCChatDataStoreManager.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
